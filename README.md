@@ -8,7 +8,7 @@ The dataset contains usage logs or metrics for users of YouTube and Spotify (e.g
 
 ## About the Dataset
 
-- **Data Files:** (e.g. `youtube_data.csv`, `spotify_data.csv`)  
+- **Data Files:** ( `Spotify_Youtube Data.csv`)  
 - **Number of Records:** Depends on source (e.g. thousands of entries per platform)  
 - **Key Features May Include:**
   - **User_ID** — Unique identifier of user  
